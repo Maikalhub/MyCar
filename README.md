@@ -1,5 +1,5 @@
 # MyCar
-MyCar Project - automated car rental program.
+automated car rental program.
 
 This project is developed in C , with the integration of the Acess database for initial verification of interaction and updating the necessary information in it.
 
