@@ -10,3 +10,5 @@ Examples:
   ![Рисунок1](https://github.com/user-attachments/assets/1668e769-1743-4d7f-bf3c-9a8278e0bf9a)
 
 ![Рисунок2](https://github.com/user-attachments/assets/5b52aa4f-b41d-4172-bfce-9a29d84ee051)
+
+Thank you for watching and send your feedback!!!
