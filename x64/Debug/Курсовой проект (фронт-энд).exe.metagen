@@ -1,0 +1,118 @@
+  Курсовойпроектфронтэнд.Admin.resources - Embedded, ContainedInManifestFile, 
+  Курсовойпроектфронтэнд.AdminAutorisation.resources - Embedded, ContainedInManifestFile, 
+  Курсовойпроектфронтэнд.AdminEditAdminData.resources - Embedded, ContainedInManifestFile, 
+  Курсовойпроектфронтэнд.AdminEditAutoData.resources - Embedded, ContainedInManifestFile, 
+  Курсовойпроектфронтэнд.AdminEditReportsData.resources - Embedded, ContainedInManifestFile, 
+  Курсовойпроектфронтэнд.AdminEditUserData.resources - Embedded, ContainedInManifestFile, 
+  Курсовойпроектфронтэнд.MyMenu.resources - Embedded, ContainedInManifestFile, 
+  Курсовойпроектфронтэнд.Registration.resources - Embedded, ContainedInManifestFile, 
+  Курсовойпроектфронтэнд.ReportOrderData.resources - Embedded, ContainedInManifestFile, 
+  Курсовойпроектфронтэнд.ReportTransactionData.resources - Embedded, ContainedInManifestFile, 
+  Курсовойпроектфронтэнд.User.resources - Embedded, ContainedInManifestFile, 
+  Курсовойпроектфронтэнд.UserEditUserDataNew.resources - Embedded, ContainedInManifestFile, 
+  Курсовойпроектфронтэнд.UserEditUserDataNewEdit.resources - Embedded, ContainedInManifestFile, 
+  Курсовойпроектфронтэнд.UserRentAutoDecorOrder.resources - Embedded, ContainedInManifestFile, 
+  Курсовойпроектфронтэнд.UserRentAutoWiewData.resources - Embedded, ContainedInManifestFile, 
+  Курсовойпроектфронтэнд.UserWiewOrderAuto.resources - Embedded, ContainedInManifestFile, 
+  Курсовойпроектфронтэнд.UserWiewOrderData.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Курсовой проект (фронт-энд), Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Курсовойпроектфронтэнд.Admin: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Курсовойпроектфронтэнд.MyMenu: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.ToolStripMenuItem потвердитьToolStripMenuItem : Public
+    System.Windows.Forms.Button button3 : Public
+    System.Windows.Forms.Button button2 : Public
+    System.Windows.Forms.TextBox textBox2 : Public
+    System.Windows.Forms.TextBox textBox1 : Public
+  Methods:
+    ТransferData(String): PrivateScope, Public, HideBySig
+    button2_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    потвердитьToolStripMenuItem_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+Class Курсовойпроектфронтэнд.AdminEditAdminData: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Курсовойпроектфронтэнд.AdminEditUserData: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Курсовойпроектфронтэнд.AdminEditAutoData: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Курсовойпроектфронтэнд.AdminEditReportsData: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Курсовойпроектфронтэнд.AdminAutorisation: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.ToolStripMenuItem потвердитьToolStripMenuItem : Public
+    System.Windows.Forms.Button button3 : Public
+    System.Windows.Forms.Button button2 : Public
+    System.Windows.Forms.TextBox textBox2 : Public
+    System.Windows.Forms.TextBox textBox1 : Public
+Class Курсовойпроектфронтэнд.ReportOrderData: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Курсовойпроектфронтэнд.ReportTransactionData: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Курсовойпроектфронтэнд.User: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Курсовойпроектфронтэнд.Registration: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.ToolStripMenuItem потвердитьToolStripMenuItem : Public
+    System.Windows.Forms.Button button3 : Public
+    System.Windows.Forms.Button button2 : Public
+    System.Windows.Forms.TextBox textBox2 : Public
+    System.Windows.Forms.TextBox textBox1 : Public
+Class Курсовойпроектфронтэнд.UserRentAutoWiewData: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Курсовойпроектфронтэнд.UserEditUserDataNew: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Button button3 : Public
+    System.Windows.Forms.TextBox textBox2 : Public
+    System.Windows.Forms.TextBox textBox1 : Public
+    System.Windows.Forms.TextBox textBox3 : Public
+    System.Windows.Forms.Button button1 : Public
+    System.Windows.Forms.Button button5 : Public
+Class Курсовойпроектфронтэнд.UserEditUserDataNewEdit: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.ToolStripMenuItem потвердитьToolStripMenuItem : Public
+    System.Windows.Forms.Button button3 : Public
+    System.Windows.Forms.Button button2 : Public
+    System.Windows.Forms.TextBox textBox2 : Public
+    System.Windows.Forms.TextBox textBox1 : Public
+Class Курсовойпроектфронтэнд.UserRentAutoDecorOrder: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Курсовойпроектфронтэнд.UserWiewOrderAuto: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Курсовойпроектфронтэнд.UserWiewOrderData: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
